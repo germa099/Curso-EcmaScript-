@@ -1,0 +1,16 @@
+{
+  "name": "clases",
+  "version": "1.0.0",
+  "description": "todo lo prácticado en las clases del curso de EcmaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "ecmascript"
+  ],
+  "author": "Germain Ramirez <germainramirez11@gmail.com>",
+  "license": "MIT",
+  "type": "module"
+}
