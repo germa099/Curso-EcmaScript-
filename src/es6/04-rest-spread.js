@@ -46,6 +46,7 @@ let { prop1: prop12, prop2: prop22 } = object;
 
 console.log(prop12); // valor1
 console.log(prop22); // valor2
+
 //*la propiedad del objeto sigue existiendo, es decir que prop12 es una variable nueva
 console.log(object.prop1);
 

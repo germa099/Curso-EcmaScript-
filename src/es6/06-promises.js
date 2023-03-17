@@ -1,4 +1,4 @@
-const a = "a";
+// const a = "a";
 
 // const anotherFunction = () => {
 //   return new Promise((resolve, reject) => {
@@ -20,6 +20,6 @@ const anotherFunction = () => {
   });
 };
 
-anotherFunction();
-// .then((i) => console.log(i))
-// .catch((i) => console.log(i));
+anotherFunction()
+  .then((i) => console.log(i))
+  .catch((i) => console.log(i));
